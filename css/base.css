@@ -134,7 +134,7 @@ body {
   /*fix*/
 }
 .article-meta .fa-wrap {
-  color: #666666;
+  color: #000000;
   margin-right: 0.1rem;
 }
 .article-meta .tags-meta,
@@ -2189,7 +2189,7 @@ header #site-meta .subtitle {
   *display: inline;
   *zoom: 1;
   opacity: 1;
-  color: #666666;
+  color: #000000;
   font-weight: 200;
   font-size: .16rem;
   margin-left: .1rem;
@@ -2216,7 +2216,7 @@ header #nav li {
   padding: 0.29rem 0 0.11rem;
 }
 header #nav a {
-  color: #666666;
+  color: #000000;
   padding: 0 .06rem;
   display: block;
 }
@@ -2257,7 +2257,7 @@ header #nav a i {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   border: 1px solid #cecece;
-  color: #666666;
+  color: #000000;
   overflow: hidden;
   padding: .2rem;
   font-size: 0.14rem;
@@ -2303,7 +2303,7 @@ header #nav a i {
 }
 #sidebar .category-list .category-list-link {
   font-size: 0.16rem;
-  color: #666666;
+  color: #000000;
 }
 #sidebar .category-list .category-list-link .fa:before {
   margin-right: 0.07rem;
@@ -2341,7 +2341,7 @@ header #nav a i {
   display: inline-block;
   *display: inline;
   *zoom: 1;
-  color: #666666 !important;
+  color: #000000 !important;
   margin-bottom: 0.1rem;
 }
 #sidebar .archive-list-item .archive-list-link .fa:before {
@@ -2362,7 +2362,7 @@ header #nav a i {
   display: inline-block;
   *display: inline;
   *zoom: 1;
-  color: #666666;
+  color: #000000;
   line-height: 1.4;
 }
 #sidebar #popular-content .popular-item a:hover {
@@ -2378,7 +2378,7 @@ header #nav a i {
 #sidebar .friends-link a {
   display: block;
   margin-right: 0.1rem;
-  color: #666666;
+  color: #000000;
   font-size: 0.16rem;
   line-height: 1.5;
 }
@@ -2451,7 +2451,7 @@ header #nav a i {
   line-height: 1.8;
 }
 #footer .social > a {
-  color: #666666;
+  color: #000000;
   font-size: 0.3rem;
   margin-left: 0.2rem;
 }
@@ -2477,7 +2477,7 @@ header #nav a i {
   width: 35px;
   height: 35px;
   line-height: 33px;
-  background-color: #666666;
+  background-color: #000000;
   font-size: 40px;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
@@ -2610,7 +2610,7 @@ header #nav a i {
 #search-area #search-result .search-item > a {
   display: block;
   padding: .1rem;
-  color: #666666;
+  color: #000000;
 }
 #search-area #search-result .search-item > a:hover {
   color: #6699cc;
