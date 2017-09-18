@@ -9,6 +9,7 @@
   position: relative;
   padding: .12rem .3rem .1rem;
   margin-bottom: .1rem;
+  background-color: #ffffff;
   height: 2.27rem;
   -webkit-box-shadow: #666666 0 2px 1px;
   -moz-box-shadow: #666666 0 2px 1px;
@@ -78,6 +79,6 @@
   position: absolute;
   bottom: 0;
   left: 0;
-  background-color: #EEEEEE;
+  background-color: #ffffff;
   opacity: 0.7;
 }
