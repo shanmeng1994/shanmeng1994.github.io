@@ -77,7 +77,7 @@
   border-left: 5px solid #cecece;
   padding: 0.05rem 0.15rem 0.05rem 0.3rem;
   background-color: #EAEAEA;
-  color: #000000;
+  color: #666666;
 }
 #about blockquote cite:before,
 #error-page #error blockquote cite:before {
@@ -86,7 +86,7 @@
 }
 #about strong,
 #error-page #error strong {
-  color: #000000;
+  color: #666666;
 }
 #about figure,
 #error-page #error figure {
@@ -202,7 +202,7 @@
   display: block;
   text-align: center;
   font-size: 0.14rem;
-  color: #000000;
+  color: #666666;
   margin: -0.2rem 0 0.2rem;
 }
 #about a,
@@ -302,7 +302,7 @@
   position: relative;
 }
 #demo .demo-title {
-  color: #000000;
+  color: #666666;
   text-align: left;
   border-bottom: 1px solid rgba(206, 206, 206, 0.18);
   margin-bottom: 20px;
@@ -323,17 +323,17 @@
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  -webkit-box-shadow: 0 2px 1px #000000;
-  -moz-box-shadow: 0 2px 1px #000000;
-  box-shadow: 0 2px 1px #000000;
+  -webkit-box-shadow: 0 2px 1px #666666;
+  -moz-box-shadow: 0 2px 1px #666666;
+  box-shadow: 0 2px 1px #666666;
   width: 45%;
   margin: 20px 10px;
   padding-bottom: 10px;
 }
 #demo .demo-list-item:hover {
-  -webkit-box-shadow: 0 5px 10px #000000;
-  -moz-box-shadow: 0 5px 10px #000000;
-  box-shadow: 0 5px 10px #000000;
+  -webkit-box-shadow: 0 5px 10px #666666;
+  -moz-box-shadow: 0 5px 10px #666666;
+  box-shadow: 0 5px 10px #666666;
 }
 #demo .demo-list-item .fa {
   position: absolute;
@@ -345,7 +345,7 @@
   margin-left: -50px;
 }
 #demo .demo-list-item a {
-  color: #000000;
+  color: #666666;
   text-align: left;
   display: block;
 }

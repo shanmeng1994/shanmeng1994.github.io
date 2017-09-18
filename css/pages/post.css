@@ -113,14 +113,14 @@
   border-left: 5px solid #cecece;
   padding: 0.05rem 0.15rem 0.05rem 0.3rem;
   background-color: #EAEAEA;
-  color: #000000;
+  color: #666666;
 }
 #post #post-body blockquote cite:before {
   content: "---";
   padding: .1rem;
 }
 #post #post-body strong {
-  color: #000000;
+  color: #666666;
 }
 #post #post-body figure {
   font-family: "Source Code Pro", Consolas, "Liberation Mono", Monaco, Menlo, monospace;
@@ -221,7 +221,7 @@
   display: block;
   text-align: center;
   font-size: 0.14rem;
-  color: #000000;
+  color: #666666;
   margin: -0.2rem 0 0.2rem;
 }
 #post #post-body a {
