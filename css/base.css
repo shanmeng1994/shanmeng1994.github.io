@@ -2249,7 +2249,7 @@ header #nav a i {
   width: 20%;
 }
 #sidebar .widget {
-  background: #ffffff;
+  backgroud-color: white;
   position: relative;
   -webkit-border-radius: 1px;
   -moz-border-radius: 1px;
