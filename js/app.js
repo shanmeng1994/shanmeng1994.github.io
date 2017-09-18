@@ -41,6 +41,11 @@ window.onload = function () {
     $datePlaceHolders = document.querySelectorAll(".error-date"),
     $hostPlaceHolders = document.querySelectorAll(".error-host"),
     $gitcomment = document.getElementById("gitcomment");
+    $wiget = document.querySelectorAll("#sidebar .widget");
+
+    for(var widgetIndex=0;widgetIndex<$wiget.length;widgetIndex++){
+      $wiget[widgetIndex].style.backgroundColor="#ffffff";
+    }
   //responsive design
   var isPC = true;
   (function (designPercent) {
