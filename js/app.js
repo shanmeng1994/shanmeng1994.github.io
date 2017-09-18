@@ -42,9 +42,14 @@ window.onload = function () {
     $hostPlaceHolders = document.querySelectorAll(".error-host"),
     $gitcomment = document.getElementById("gitcomment");
     $wiget = document.querySelectorAll("#sidebar .widget");
+    $articleExWrap = document.querySelectorAll(".article-excerpt-wrap");
 
     for(var widgetIndex=0;widgetIndex<$wiget.length;widgetIndex++){
       $wiget[widgetIndex].style.backgroundColor="#ffffff";
+    }
+
+    for(var articleExIndex=0;articleExIndex<$articleExWrap.length;articleExIndex++){
+        $articleExWrap[articleExIndex].style.backgroundColor="#ffffff";
     }
   //responsive design
   var isPC = true;
