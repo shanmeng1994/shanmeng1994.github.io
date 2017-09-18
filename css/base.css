@@ -2249,7 +2249,6 @@ header #nav a i {
   width: 20%;
 }
 #sidebar .widget {
-  backgroud-color: white;
   position: relative;
   -webkit-border-radius: 1px;
   -moz-border-radius: 1px;
@@ -2265,6 +2264,7 @@ header #nav a i {
   line-height: 0.22rem;
   min-height: 0.5rem;
   margin-bottom: 0.2rem;
+  backgroud-color: #ffffff;
 }
 #sidebar .widget .widget-title {
   position: relative;
